@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my GitHub Page!
+## Trzygłów is pronounced: /ˈtʂɨ.ɡwuf/
 
-<!--
-**trzyglow/trzyglow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stuff I do:
+- Audio Stuff
+- Classic Doom Stuff
+- MIDI Stuff
+- Graphical Stuff
+- Code Stuff (sometimes)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+## Enjoy this Doom (1993) gif:
+![GIF](https://user-images.githubusercontent.com/115739838/219681416-34d32d54-fc60-4caa-a324-23b8a5dd8762.gif)
