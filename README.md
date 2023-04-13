@@ -1,12 +1,12 @@
 # Welcome to my GitHub Page!
-## Trzygłów is pronounced: /ˈtʂɨ.ɡwuf/
 
 ## Stuff I do:
 - Audio Stuff
 - Classic Doom Stuff
 - MIDI Stuff
 - Graphical Stuff
-- Code Stuff (sometimes)
+- Code Stuff (occasionally)
+- Translating
 
 ___
 ## Enjoy this Doom (1993) gif:
