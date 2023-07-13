@@ -2,7 +2,6 @@
 
 ## Stuff I do:
 - Audio Stuff
-- Classic Doom Stuff
 - MIDI Stuff
 - Graphical Stuff
 - Code Stuff (occasionally)
