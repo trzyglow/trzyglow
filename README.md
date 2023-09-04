@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile.
 
-I create stuff of varying usefulness...
+I create stuff of varying degrees regarding usefulness...
 
 <pre> 09 F9 11 02 9D 74 E3 5B D8 41 56 C5 63 56 88 C0 </pre>
