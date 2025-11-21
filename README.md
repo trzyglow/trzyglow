@@ -1,3 +1,3 @@
 <p align="center">
-<img title="a tooltip? with a dated reference? next to my cursor? it's more likely than you think." src="./RICK.gif">
+<img alt="1-Bit sequence of Rick Astley dancing" src="./RICK.gif">
 </p>
